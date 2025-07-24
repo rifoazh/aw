@@ -62,7 +62,24 @@
                 "selesai": "09:30"
             }
         ],
-        "Kamis": [],
+        "Kamis": [
+            {
+                "id": "1753337915.464782",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "aa",
+                "ruang": "x",
+                "mulai": "08:00",
+                "selesai": "09:00"
+            },
+            {
+                "id": "1753347684.347702",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "penjaskes",
+                "ruang": "XII",
+                "mulai": "07:00",
+                "selesai": "08:00"
+            }
+        ],
         "Jumat": [
             {
                 "id": "1721769400.101",
@@ -73,7 +90,16 @@
                 "selesai": "16:30"
             }
         ],
-        "Sabtu": [],
+        "Sabtu": [
+            {
+                "id": "1753348118.749367",
+                "kategori": "Ekstrakurikuler",
+                "aktivitas": "pramuka",
+                "ruang": "lapangan",
+                "mulai": "07:00",
+                "selesai": "08:00"
+            }
+        ],
         "Minggu": []
     }
 }
