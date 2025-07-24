@@ -315,8 +315,8 @@ class JadwalApp(App):
         # Data user yang diperbarui
         self.data = {
             "users": {
-                "guru_budi": {"nama": "Budi Santoso", "password": "cukuptau", "role": "Guru", "nip": "198501012010011001", "mata_pelajaran": "Matematika"},
-                "siswa_ani": {"nama": "Ani Suryani", "password": "belajar", "role": "Siswa", "nomor_induk": "22001", "kelas": "XI-A"}
+                "guru#": {"nama": "Budi Setiawan", "password": "cukuptau", "role": "Guru", "nip": "198501012010011001", "mata_pelajaran": "Matematika"},
+                "siswa": {"nama": "nama_siswa", "password": "belajar", "role": "Siswa", "nomor_induk": "22001", "kelas": "XI-A"}
             },
             "jadwal": {hari: [] for hari in NAMA_HARI}
         }
