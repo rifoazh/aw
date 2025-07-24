@@ -1,0 +1,79 @@
+{
+    "users": {
+        "guru#": {
+            "nama": "Budi Santoso",
+            "password": "cukuptau",
+            "role": "Guru",
+            "nip": "198501012010011001",
+            "mata_pelajaran": "Matematika"
+        },
+        "siswa": {
+            "nama": "NAMA_SISWA",
+            "password": "belajar",
+            "role": "Siswa",
+            "nomor_induk": "22001",
+            "kelas": "XI-A"
+        }
+    },
+    "jadwal": {
+        "Senin": [
+            {
+                "id": "1721759400.123",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "Upacara Bendera",
+                "ruang": "Lapangan Utama",
+                "mulai": "07:00",
+                "selesai": "07:45"
+            },
+            {
+                "id": "1721769400.456",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "Fisika",
+                "ruang": "Lab Fisika",
+                "mulai": "09:00",
+                "selesai": "10:30"
+            }
+        ],
+        "Selasa": [
+            {
+                "id": "1753279766.371571",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "Diskrit",
+                "ruang": "A3",
+                "mulai": "07:00",
+                "selesai": "14:00"
+            },
+            {
+                "id": "1753279883.660094",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "yyy",
+                "ruang": "k",
+                "mulai": "07:00",
+                "selesai": "13:00"
+            }
+        ],
+        "Rabu": [
+            {
+                "id": "1721759400.789",
+                "kategori": "Mata Pelajaran",
+                "aktivitas": "Matematika I",
+                "ruang": "Kelas XI-A",
+                "mulai": "08:00",
+                "selesai": "09:30"
+            }
+        ],
+        "Kamis": [],
+        "Jumat": [
+            {
+                "id": "1721769400.101",
+                "kategori": "Ekstrakurikuler",
+                "aktivitas": "Pramuka",
+                "ruang": "Aula",
+                "mulai": "15:00",
+                "selesai": "16:30"
+            }
+        ],
+        "Sabtu": [],
+        "Minggu": []
+    }
+}
